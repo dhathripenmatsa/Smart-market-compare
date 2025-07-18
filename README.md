@@ -41,4 +41,4 @@
 
 ## 👩‍💻 Author
 
-**Dhathri Penmatsa**  
+**dhathripenmatsa**  
