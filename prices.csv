@@ -1,0 +1,41 @@
+item,store,price,availability
+Milk,DMart,52,In stock
+Milk,BigBasket,55,In stock
+Milk,Reliance,53,In stock
+Rice 1kg,DMart,65,In stock
+Rice 1kg,BigBasket,63,In stock
+Rice 1kg,Reliance,62,In stock
+Toothpaste,DMart,47,In stock
+Toothpaste,BigBasket,45,In stock
+Toothpaste,Reliance,43,In stock
+Soap,DMart,32,In stock
+Soap,BigBasket,30,In stock
+Soap,Reliance,28,In stock
+Sugar 1kg,DMart,40,In stock
+Sugar 1kg,BigBasket,42,In stock
+Sugar 1kg,Reliance,41,In stock
+Atta 5kg,DMart,215,In stock
+Atta 5kg,BigBasket,212,In stock
+Atta 5kg,Reliance,218,In stock
+Cooking Oil 1L,DMart,114,In stock
+Cooking Oil 1L,BigBasket,115,In stock
+Cooking Oil 1L,Reliance,112,In stock
+Salt 1kg,DMart,21,In stock
+Salt 1kg,BigBasket,20,In stock
+Salt 1kg,Reliance,22,In stock
+Shampoo 180ml,DMart,90,In stock
+Shampoo 180ml,BigBasket,88,In stock
+Shampoo 180ml,Reliance,89,In stock
+Detergent 1kg,DMart,79,In stock
+Detergent 1kg,BigBasket,82,In stock
+Detergent 1kg,Reliance,80,In stock
+Eggs (12 pcs),DMart,72,In stock
+Eggs (12 pcs),BigBasket,70,In stock
+Eggs (12 pcs),Reliance,71,In stock
+Tea Powder 500g,DMart,145,In stock
+Tea Powder 500g,BigBasket,147,In stock
+Tea Powder 500g,Reliance,146,In stock
+Biscuit Pack,DMart,26,In stock
+Biscuit Pack,BigBasket,28,In stock
+Biscuit Pack,Reliance,27,In stock
+

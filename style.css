@@ -1,0 +1,18 @@
+/* style.css */
+
+h1 {
+    color: #2E8B57;
+    text-align: center;
+}
+
+div[data-testid="stDataFrame"] table {
+    font-size: 15px;
+}
+
+.stButton > button {
+    background-color: #2E8B57;
+    color: white;
+    border-radius: 5px;
+    padding: 0.5em 1em;
+    font-weight: bold;
+}
